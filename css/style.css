@@ -146,7 +146,7 @@ body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 20px;
   margin-bottom: 13px;
-  background: url(/img/check_icon_37.png) left no-repeat;
+  background: url(img/check_icon_37.png) left no-repeat;
   padding-left: 40px;
 }
 
@@ -196,7 +196,7 @@ body {
 
 .content-bottom-info__link span {
   padding: 0 32px 0 0;
-  background: url(/img/shape_2_9.png) right no-repeat;
+  background: url(img/shape_2_9.png) right no-repeat;
 }
 
 .content-bottom-info__link:hover {
